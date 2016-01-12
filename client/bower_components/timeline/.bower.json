@@ -1,0 +1,28 @@
+{
+  "name": "timeline",
+  "main": "./timeline.js",
+  "homepage": "https://github.com/doanthai96/timeline",
+  "authors": [
+    "doanthai96 <doanthai96@gmail.com>"
+  ],
+  "description": "None",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "c6b284fb9e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c6b284fb9e6be21dcc36d56fccabe01646d489dd"
+  },
+  "_source": "git://github.com/doanthai96/timeline.git",
+  "_target": "*",
+  "_originalSource": "timeline-thai",
+  "_direct": true
+}

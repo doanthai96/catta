@@ -1,0 +1,18 @@
+{
+  "name": "timeline",
+  "main": "./timeline.js",
+  "homepage": "https://github.com/doanthai96/timeline",
+  "authors": [
+    "doanthai96 <doanthai96@gmail.com>"
+  ],
+  "description": "None",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
